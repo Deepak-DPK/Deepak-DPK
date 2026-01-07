@@ -16,7 +16,7 @@ Hi, I’m a Data Engineering learner 🚀 and an aspiring Python Developer 🐍<
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DEEPAK-DPK&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Deepak-DPK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DEEPAK-DPK&icon=0&color=3)](https://visitcount.itsvg.in)
