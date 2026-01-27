@@ -1,8 +1,12 @@
 <h1 align="center">👨‍💻 Hi, I'm Deepak!</h1>
 <h3 align="center">🚀 Aspiring Python & Java Developer | Consistency Learner | Problem Solver</h3>
 
-# 💫 About Me:
-Hi, I’m an aspiring **Java** and **Python** Developer 🚀<br>My driving force is **consistency**—small, daily improvements compound into massive results 🔧📊<br><br>🌱 Currently strengthening my core in **Java** and **Python**<br><br>🧩 **Problem Solving** is my daily workout (DSA & Logic)<br><br>📚 **Continuous Learning** is my lifestyle<br><br>🐧 **Linux & Open Source** enthusiast<br><br>💡 Mindset: "Consistency is not about perfection. It is about refusing to give up." ✨
+- � My driving force is **consistency**—small, daily improvements compound into massive results 🔧📊<br>
+- 🌱 Currently strengthening my core in **Java** and **Python**<br>
+- 🧩 **Problem Solving** is my daily workout (DSA & Logic)<br>
+- 📚 **Continuous Learning** is my lifestyle<br>
+- 🐧 **Linux & Open Source** enthusiast<br>
+- 💡 **Mindset:** "Consistency is not about perfection. It is about refusing to give up." ✨
 
 ---
 
