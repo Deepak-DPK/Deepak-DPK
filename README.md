@@ -35,18 +35,30 @@ I am a passionate learner on a journey to master software development. My drivin
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **Consistency in Action**  
+<!-- Activity Graph: visualizes your real commit history over time -->
+[![Ashutosh's github-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=DEEPAK-DPK&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAK-DPK&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />  
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-DPK&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+  <!-- Streak Stats: The ultimate proof of consistency -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPAK-DPK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 📈 **Code Metrics**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAK-DPK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-DPK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
 ---
 
-### ✍️ **Daily Inspiration**  
+### ✍️ **My Mantra**  
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2892D7&center=true&vCenter=true&width=435&lines=Consistency+is+Key+%F0%9F%94%91;1%25+Better+Every+Day+%F0%9F%93%88;Code.+Sleep.+Repeat.+%E2%98%95" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
