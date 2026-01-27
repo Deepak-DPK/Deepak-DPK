@@ -1,57 +1,52 @@
-# �‍💻 Hi, I'm Deepak!  
-### 🚀 **Java Developer** | **Consistency Learner** | **Problem Solver**  
+# 👨‍💻 Hi, I'm Deepak!  
+### 🚀 **Aspiring Java Developer** | **Consistency Learner** | **Problem Solver**  
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-I am a passionate **Java Developer** on a journey to master backend engineering and software architecture. My driving force is **consistency**—I believe that small, daily improvements compound into massive results. I don't just write code; I strive to **solve problems** and build efficient, scalable systems. 🏗️  
+I am a passionate learner on a journey to master software development. My driving force is **consistency**—I believe that small, daily improvements compound into massive results. I am currently strengthening my core in **Java** and **Python** while solving real-world problems. 🏗️  
 
 <br>
 
 ## ⚡ **My Philosophy**  
-> "Consistency is not about perfection. It is about refusing to give up." �  
+> "Consistency is not about perfection. It is about refusing to give up." 💡  
 
-- ☕ **Java & Spring Ecosystem** is my home base.  
-- 🧩 **Problem Solving** is my daily workout (DSA & Logic).  
-- � **Continuous Learning** is my lifestyle.  
+- 🧩 **Problem Solving** is my daily workout.  
+- 📚 **Continuous Learning** is my lifestyle.  
 - 🐧 **Linux & Open Source** enthusiast.  
 
 ---
 
-## �️ **Tech Stack**  
+## 🛠️ **Tech Stack**  
 
-### **Core & Backend**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 
-### **Tools & DevOps**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Maven](https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
+### **Database**  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-### **Other Skills**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+### **Tools & Technologies**  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+
+### **Operating Systems**  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+### **Familiar with**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
 
 ---
 
 ## 📊 **GitHub Stats**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAK-DPK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DEEPAK-DPK&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-DPK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
-</div>
-
----
-
-## 🏆 **Achievements & Trophies**  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DEEPAK-DPK&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAK-DPK&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />  
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-DPK&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
 ---
 
 ### ✍️ **Daily Inspiration**  
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 ---
