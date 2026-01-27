@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Python & Java Developer | Consistency Learner | Problem Solver</h3>
 
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/04de2e31234507.564a1d23645bf.gif" width="600" alt="Coding GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.gif" width="600" alt="Coding Aesthetics">
 </div>
 
 <p align="center">
@@ -46,9 +46,9 @@
 [![Ashutosh's github-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=DEEPAK-DPK&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <!-- Profile Details: A cleaner, more reliable alternative to Streak Stats -->
+  <!-- Streak Stats: Restored for specific streak count metrics -->
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DEEPAK-DPK&theme=tokyonight" alt="Profile Details" />
+  <img src="https://streak-stats.demolab.com?user=DEEPAK-DPK&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub Streak" />
 </div>
 
 <br>
