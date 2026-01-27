@@ -38,12 +38,13 @@
 ---
 
 ## 📊 **Consistency in Action**  
-<!-- Activity Graph: visualizes your real commit history over time -->
-[![Ashutosh's github-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=DEEPAK-DPK&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- Activity Graph -->
 <div align="center">
-  <!-- Streak Stats: Restored for specific streak count metrics -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEPAK-DPK&theme=tokyonight" alt="Activity Graph" />
+  </a>
   <br>
+  <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=DEEPAK-DPK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -51,8 +52,12 @@
 
 ## 📈 **Code Metrics**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEEPAK-DPK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-DPK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DEEPAK-DPK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="Stats Graph" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-DPK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Languages Graph" />
+  </a>
 </div>
 
 ---
