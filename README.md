@@ -1,20 +1,8 @@
 <h1 align="center">👨‍💻 Hi, I'm Deepak!</h1>
 <h3 align="center">🚀 Aspiring Python & Java Developer | Consistency Learner | Problem Solver</h3>
 
-<p align="center">
-  I am a passionate learner on a journey to master software development. My driving force is <b>consistency</b>—I believe that small, daily improvements compound into massive results. I am currently strengthening my core in <b>Java</b> and <b>Python</b> while solving real-world problems. 🏗️
-</p>
-
-<div align="center">
-  <h3>⚡ My Philosophy</h3>
-  <blockquote>"Consistency is not about perfection. It is about refusing to give up." 💡</blockquote>
-</div>
-
-<p align="center"> 
-  🧩 <b>Problem Solving</b> is my daily workout &nbsp;|&nbsp; 
-  📚 <b>Continuous Learning</b> is my lifestyle &nbsp;|&nbsp; 
-  🐧 <b>Linux & Open Source</b> enthusiast
-</p>
+# 💫 About Me:
+Hi, I’m an aspiring **Java** and **Python** Developer 🚀<br>My driving force is **consistency**—small, daily improvements compound into massive results 🔧📊<br><br>🌱 Currently strengthening my core in **Java** and **Python**<br><br>🧩 **Problem Solving** is my daily workout (DSA & Logic)<br><br>📚 **Continuous Learning** is my lifestyle<br><br>🐧 **Linux & Open Source** enthusiast<br><br>💡 Mindset: "Consistency is not about perfection. It is about refusing to give up." ✨
 
 ---
 
