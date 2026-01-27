@@ -1,5 +1,5 @@
 # 👨‍💻 Hi, I'm Deepak!  
-### 🚀 **Aspiring Java Developer** | **Consistency Learner** | **Problem Solver**  
+### 🚀 **Aspiring Python & Java Developer** | **Consistency Learner** | **Problem Solver**  
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
@@ -41,7 +41,7 @@ I am a passionate learner on a journey to master software development. My drivin
 
 <div align="center">
   <!-- Streak Stats: The ultimate proof of consistency -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPAK-DPK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=DEEPAK-DPK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
