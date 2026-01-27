@@ -48,7 +48,7 @@
 <div align="center">
   <!-- Streak Stats: Restored for specific streak count metrics -->
   <br>
-  <img src="https://streak-stats.demolab.com?user=DEEPAK-DPK&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=DEEPAK-DPK&theme=tokyonight&hide_border=true&card_width=800&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
 </div>
 
 <br>
