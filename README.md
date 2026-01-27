@@ -1,18 +1,26 @@
-# 👨‍💻 Hi, I'm Deepak!  
-### 🚀 **Aspiring Python & Java Developer** | **Consistency Learner** | **Problem Solver**  
+<h1 align="center">👨‍💻 Hi, I'm Deepak!</h1>
+<h3 align="center">🚀 Aspiring Python & Java Developer | Consistency Learner | Problem Solver</h3>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</div>
 
-I am a passionate learner on a journey to master software development. My driving force is **consistency**—I believe that small, daily improvements compound into massive results. I am currently strengthening my core in **Java** and **Python** while solving real-world problems. 🏗️  
+<p align="center">
+  I am a passionate learner on a journey to master software development. My driving force is <b>consistency</b>—I believe that small, daily improvements compound into massive results. I am currently strengthening my core in <b>Java</b> and <b>Python</b> while solving real-world problems. 🏗️
+</p>
 
-<br>
+<div align="center">
+  <h3>⚡ My Philosophy</h3>
+  <blockquote>"Consistency is not about perfection. It is about refusing to give up." 💡</blockquote>
+</div>
 
-## ⚡ **My Philosophy**  
-> "Consistency is not about perfection. It is about refusing to give up." 💡  
+<p align="center"> 
+  🧩 <b>Problem Solving</b> is my daily workout &nbsp;|&nbsp; 
+  📚 <b>Continuous Learning</b> is my lifestyle &nbsp;|&nbsp; 
+  🐧 <b>Linux & Open Source</b> enthusiast
+</p>
 
-- 🧩 **Problem Solving** is my daily workout.  
-- 📚 **Continuous Learning** is my lifestyle.  
-- 🐧 **Linux & Open Source** enthusiast.  
+---  
 
 ---
 
@@ -41,7 +49,7 @@ I am a passionate learner on a journey to master software development. My drivin
 
 <div align="center">
   <!-- Streak Stats: The ultimate proof of consistency -->
-  <img src="https://streak-stats.demolab.com?user=DEEPAK-DPK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=DEEPAK-DPK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
