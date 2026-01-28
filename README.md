@@ -6,6 +6,7 @@
 - 🧩 **Problem Solving** is my daily workout (DSA & Logic)<br><br>
 - 📚 **Continuous Learning** is my lifestyle<br><br>
 - 🐧 **Linux & Open Source** enthusiast<br><br>
+- 🤖 Exploring **Generative AI**, **Prompt Engineering**, & **Agentic Tools**<br><br>
 - 💡 **Mindset:** "Consistency is not about perfection. It is about refusing to give up." ✨
 
 ---
@@ -24,7 +25,12 @@
 ### **Operating Systems**  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
+### **Generative AI & Agentic Tools**
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)  
+![Kiro](https://img.shields.io/badge/Kiro_IDE-000000?style=for-the-badge&logo=code&logoColor=white) ![Qoder](https://img.shields.io/badge/Alibaba_Qoder-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white)
+
 ### **Familiar with**  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
 
 ---
