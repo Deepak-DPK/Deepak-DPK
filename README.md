@@ -1,13 +1,20 @@
 <h1 align="center">👨‍💻 Hi, I'm Deepak!</h1>
-<h3 align="center">🚀 Aspiring Python & Java Developer | Consistency Learner | Problem Solver</h3>
 
-- 🔭 My driving force is **consistency**—small, daily improvements compound into massive results 🔧📊<br><br>
-- 🌱 Currently strengthening my core in **Java** and **Python**<br><br>
-- 🧩 **Problem Solving** is my daily workout (DSA & Logic)<br><br>
-- 📚 **Continuous Learning** is my lifestyle<br><br>
-- 🐧 **Linux & Open Source** enthusiast<br><br>
-- 🤖 Exploring **Generative AI**, **Prompt Engineering**, & **Agentic Tools**<br><br>
-- 💡 **Mindset:** "Consistency is not about perfection. It is about refusing to give up." ✨
+<h3 align="center">
+  🚀 Aspiring Python & Java Developer | Gen AI Enthusiast | Problem Solver
+</h3>
+
+<p align="center">
+  <em>"Consistency is not about perfection. It is about refusing to give up." ✨</em>
+</p>
+
+<br>
+
+- 🔭 **Driving Force**: I believe in the power of **consistency**—small, daily improvements that compound into massive results.
+- 🌱 **Core Stack**: Strengthening my foundations in **Java** and **Python** while mastering **DSA**.
+- 🤖 **Exploring**: The cutting edge of **Generative AI**, **Prompt Engineering**, and **Agentic Tools**.
+- � **Tech Interests**: **Linux**, **Open Source**, and **Networking**.
+- 📚 **Lifestyle**: Committed to **Continuous Learning** and daily self-improvement.
 
 ---
 
