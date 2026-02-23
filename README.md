@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepak%20R&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=M.Tech%20Software%20Engineering%20%7C%20Python%20%26%20Java%20Developer&descSize=16&descAlignY=52" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepak%20R&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Python%20%26%20Java%20Developer%20%E2%80%A2%20Gen%20AI%20Enthusiast&descSize=16&descAlignY=55" width="100%" alt="Header" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Consistency+is+Key+🔑;1%25+Better+Every+Day+📈;Code.+Learn.+Repeat.+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Consistency+is+Key+%F0%9F%94%91;1%25+Better+Every+Day+%F0%9F%93%88;Code.+Learn.+Repeat.+%E2%98%95" alt="Typing SVG" />
 </a>
 
 <br>
@@ -17,14 +17,17 @@
 
 ### 🧑‍💻 &nbsp;About Me
 
-```yaml
-name: Deepak R
-location: Tamil Nadu, India
-education: M.Tech in Software Engineering (Pursuing)
-focus: Python & Java | DSA | Generative AI
-interests: Linux, Open Source, Networking
-motto: "Small daily improvements compound into massive results."
-```
+<table>
+  <tr>
+    <td>
+      <p><strong>🎓 Education:</strong> M.Tech in Software Engineering (Pursuing)</p>
+      <p><strong>💻 Focus:</strong> Python & Java • DSA • Generative AI</p>
+      <p><strong>🐧 Interests:</strong> Linux • Open Source • Networking</p>
+      <p><strong>📍 Location:</strong> Tamil Nadu, India</p>
+      <p><strong>🔑 Motto:</strong> <em>"Small daily improvements compound into massive results."</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
