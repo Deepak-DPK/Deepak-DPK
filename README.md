@@ -51,7 +51,6 @@
     <td>
       <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
     </td>
   </tr>
@@ -73,7 +72,6 @@
     <td align="center"><b>Gen AI & Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
     </td>
   </tr>
@@ -82,14 +80,13 @@
     <td>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
       <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-      <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -100,15 +97,8 @@
 
 <br><br>
 
-<!-- Streak Stats + GitHub Stats side by side -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=DEEPAK-DPK&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=DEEPAK-DPK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" alt="GitHub Stats" />
-
-<br><br>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-DPK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170" alt="Top Languages" />
+<!-- Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=DEEPAK-DPK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -118,17 +108,11 @@
 
 <div align="center">
 
-<a href="https://github.com/Deepak-DPK/python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEPAK-DPK&repo=python&theme=tokyonight&hide_border=true" alt="Python Repo" />
-</a>
-&nbsp;
-<a href="https://github.com/Deepak-DPK/java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEPAK-DPK&repo=java&theme=tokyonight&hide_border=true" alt="Java Repo" />
-</a>
-
-<a href="https://github.com/Deepak-DPK/SQL_PRACTICE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEEPAK-DPK&repo=SQL_PRACTICE&theme=tokyonight&hide_border=true" alt="SQL Practice Repo" />
-</a>
+| Repository | Description | Language |
+|:---:|:---:|:---:|
+| [**python**](https://github.com/Deepak-DPK/python) | Python Beginner → Mastery | 🐍 Python |
+| [**java**](https://github.com/Deepak-DPK/java) | Java learning journey | ☕ Java |
+| [**SQL_PRACTICE**](https://github.com/Deepak-DPK/SQL_PRACTICE) | SQL practice & queries | 🗄️ SQL |
 
 </div>
 
