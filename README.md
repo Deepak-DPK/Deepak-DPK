@@ -79,5 +79,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEEPAK-DPK&style=for-the-badge&color=70A5FD" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DEEPAK-DPK&style=for-the-badge&color=00FF41" alt="Profile Views" />
 </div>
