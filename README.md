@@ -58,7 +58,7 @@
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEPAK-DPK&theme=tokyo-night&hide_border=true&area=true&height=300" width="95%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEPAK-DPK&theme=tokyo-night&hide_border=true&area=true&height=280" width="95%" alt="Contribution Graph" />
   </a>
 </div>
 
