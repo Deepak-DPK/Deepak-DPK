@@ -70,7 +70,7 @@
 
 | Repository | Description | Language |
 |:---:|:---|:---:|
-| [**python**](https://github.com/Deepak-DPK/python) | Python Beginner → Mastery | 🐍 Python |
+| [**python**](https://github.com/Deepak-DPK/python) | Python — Beginner to Mastery | 🐍 Python |
 | [**java**](https://github.com/Deepak-DPK/java) | Java learning journey & DSA | ☕ Java |
 | [**SQL_PRACTICE**](https://github.com/Deepak-DPK/SQL_PRACTICE) | SQL practice & queries | 🗄️ SQL |
 
