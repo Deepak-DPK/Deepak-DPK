@@ -72,7 +72,7 @@
 |:---:|:---|:---:|
 | [**python**](https://github.com/Deepak-DPK/python) | Python — Beginner to Mastery | 🐍 Python |
 | [**java**](https://github.com/Deepak-DPK/java) | Java — Fundamentals & DSA | ☕ Java |
-| [**SQL_PRACTICE**](https://github.com/Deepak-DPK/SQL_PRACTICE) | SQL practice & queries | 🗄️ SQL |
+| [**SQL_PRACTICE**](https://github.com/Deepak-DPK/SQL_PRACTICE) | SQL — Practice & Queries | 🗄️ SQL |
 
 </div>
 
