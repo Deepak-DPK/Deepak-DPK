@@ -23,7 +23,6 @@
 - 🐍 **Python Developer** 
 - ⚡ Currently learning **FastAPI** & **SQL**
 - ☕ Familiar with **Java** & **C++**
-- 🎯 Short-term goal: **Data Engineer**
 - 🤖 Exploring **Gen AI**, **Prompt Engineering** & **Agentic Tools**
 - 🐧 Passionate about **Linux** & **Open Source**
 - 🧩 Aspiring **Problem Solver** — learning from every mistake
