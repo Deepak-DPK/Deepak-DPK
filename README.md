@@ -36,7 +36,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,java,mysql,mongodb,docker,git,github,bash,linux,windows,figma&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,java,mysql,mongodb,docker,git,github,vscode,bash,linux,windows,figma&perline=10" alt="Tech Stack" />
   </a>
 
   <br><br>
