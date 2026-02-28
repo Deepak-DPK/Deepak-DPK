@@ -28,7 +28,7 @@
 - 🐧 Passionate about **Linux** & **Open Source**
 - 🧩 Aspiring **Problem Solver** — learning from every mistake
 - 📍 Based in **Tamil Nadu, India**
-- 💡 *"1% better everyday than yesterday"*
+- 💡 *"Code, Break, Learn, Repeat — 1% better every day"*
 
 ---
 
