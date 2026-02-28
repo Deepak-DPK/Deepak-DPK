@@ -20,7 +20,7 @@
 
 ### &nbsp;About Me
 
-- 🐍 **Python Developer** 
+- 🐍 **Python Developer**
 - ⚡ Currently learning **FastAPI**, **SQL** & **Docker**
 - ☕ Familiar with **Java** & **C++**
 - 🎯 Short-term goal: **Backend Developer**
